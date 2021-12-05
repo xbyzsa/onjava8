@@ -63,5 +63,5 @@
 
 - E-mail : <chenxz21@outlook.com>
 
-## 主站点
+## 友情链接
 - [北异站](https://www.chenlove.cf)
