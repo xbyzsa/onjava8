@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.onjava8.cf/</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/00-Preface.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/00-Introduction.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/01-What-is-an-Object.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/02-Installing-Java-and-the-Book-Examples.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/03-Objects-Everywhere.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/04-Operators.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/05-Control-Flow.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/06-Housekeeping.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/07-Implementation-Hiding.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/08-Reuse.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/09-Polymorphism.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/10-Interfaces.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/11-Inner-Classes.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/12-Collections.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/13-Functional-Programming.html</loc>
+  <lastmod>2021-12-07T06:19:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/14-Streams.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/15-Exceptions.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/16-Validating-Your-Code.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/17-Files.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/18-Strings.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/19-Type-Information.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/20-Generics.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/21-Arrays.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/22-Enumerations.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/23-Annotations.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/24-Concurrent-Programming.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/25-Patterns.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Supplements.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Programming-Guidelines.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Javadoc.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Passing-and-Returning-Objects.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-IO-Streams.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Standard-IO.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-New-IO.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Understanding-equals-and-hashCode.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Collection-Topics.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Low-Level-Concurrency.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Data-Compression.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Object-Serialization.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Becoming-a-Programmer.html</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/25-Patterns</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/20-Generics</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.onjava8.cf/docs/book/Appendix-Collection-Topics</loc>
+  <lastmod>2021-12-07T06:19:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
